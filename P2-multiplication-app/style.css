@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: red no-repeat center;
+  background-size: cover;
+  overflow: hidden;
+  font-family: cursive;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+.container {
+  display: grid;
+  grid-row: 1 / span 2;
+  border: 5px solid black;
+  width: 600px;
+  height: 400px;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  width: 135px;
+}
+
+.cart {
+  display: grid;
+  grid-template-rows: 3;
+  justify-content: center;
+  padding: 10px;
+}
+
+.score {
+  display: flex;
+  justify-content: end;
+  margin-right: 1rem;
+}
+
+.btn {
+  border-radius: 15px;
+  width: max-content;
+  padding: 0 10px;
+  align-items: center;
+}
