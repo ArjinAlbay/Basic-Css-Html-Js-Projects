@@ -1,3 +1,3 @@
 # css-music-website-basic
 
-Click for live demo.
+ [Click](https://github.com/ArjinAlbay/Basic-Css-Html-Js-Projects/blob/main/P5-instruments-store/homepage.html) for live demo.
