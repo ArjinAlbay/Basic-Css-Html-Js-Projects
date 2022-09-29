@@ -1,9 +1,7 @@
 # new-google-version
 
-- patika.dev css/odev3 olarak yapıldı
+++ !!!! A little warning for friends who want to take advantage!!!!!!!! 
 
-++ !!!! Yararlanmak isteyen arkadaşlar için minik bir uyarı !!!! 
+Some css sections are inline. I recommend that you do not overlook it.
 
-Bazı css bölümleri inline şekildedir. gözden kaçırmamanızı tavsiye ederim. 
-
-![webnew](https://user-images.githubusercontent.com/96173187/159216088-0f720dbd-0046-41e1-8194-96a68669509c.png)
+ [click](http://htmlpreview.github.io/?https://github.com/ArjinAlbay/Basic-Css-Html-Js-Projects/blob/main/P7-new-google-version-main/google.html) for live demo
