@@ -1,0 +1,93 @@
+a {
+  text-decoration: none;
+  color: rgb(216, 33, 72);
+}
+
+.link {
+  font-weight: bold;
+}
+
+.link:hover {
+  color: aqua;
+}
+
+button {
+  background-color: rgb(216, 33, 72);
+  color: white;
+  font-size: large;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: aqua;
+  color: #151d3b;
+}
+
+body {
+  font-family: "Helvetica Neue", "Open Sans", Arial, sans-serif;
+}
+
+img {
+  width: 450px;
+  height: 500px;
+}
+
+.ürünlerlistesi li {
+  margin-top: 35px;
+  /* padding: 10px; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333;
+}
+
+p {
+  font-size: large;
+}
+
+.container {
+  width: 90%;
+  margin: 20px auto;
+
+  border-radius: 10px;
+  border: thin solid #151d3b;
+  padding: 25px;
+}
+
+.topname {
+  font-size: xx-large;
+  text-align: center;
+}
+
+.header {
+  background-color: #151d3b;
+  text-align: center;
+  /* height: 75px; */
+  margin-top: 1rem;
+  border-radius: 10px;
+}
+
+.header a {
+  /* float: none; */
+  display: inline-block;
+  padding: 20px 25px;
+  font-size: xx-large;
+  color: aqua;
+}
+
+.header a:hover {
+  background-color: aqua;
+  color: #151d3b;
+}
+
+.header a:active {
+  background-color: rgb(255, 255, 255);
+  color: #151d3b;
+}

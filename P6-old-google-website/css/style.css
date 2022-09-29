@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-size: x-large;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+
+img {
+  width: 486px;
+  height: 176px;
+}
+
+.container {
+  margin: 25px 5%;
+}
+
+.first {
+  background-color: aliceblue;
+  margin-bottom: 5px;
+}
+
+.first input {
+  font-size: large;
+  padding: 1x 6x;
+}
+
+table {
+  display: inline;
+  font-size: large;
+  margin-top: 10px;
+}
+
+td {
+  background-color: aqua;
+  line-height: 5px;
+  width: 460px;
+  padding: 5px 20px;
+}
